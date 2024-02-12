@@ -1,0 +1,41 @@
+.principal{
+    width: 38%;
+    background-color: rgb(9, 9, 49);
+    margin: 10px auto;
+    padding-top: 50px;
+    padding-bottom: 45px;
+}
+.pantalla{
+    width: 93%;
+    height: 60px;
+    margin-left: 16px;
+    background-color: rgb(37, 37, 37);
+    color: azure;
+
+}
+.btn{
+    padding: 25px 34px;
+    margin: 18px 7px;
+    margin-left: 16px;
+    cursor: pointer;
+    background-color: rgb(37, 37, 37);
+    color: azure;
+}
+.btn:hover{
+    padding: 28px 36px;
+    background-color: rgb(207, 146, 31);
+    color:rgb(37, 37, 37); ;
+
+}
+.btn1{
+    padding: 25px 190px;
+    margin: 10px 7px;
+    cursor: pointer;
+    background-color: rgb(207, 146, 31);
+    color: azure;
+}
+.btn1:hover{
+    padding: 29px 191px;
+    background-color: rgb(37, 37, 37);
+    color: azure;
+}
